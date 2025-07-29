@@ -37,6 +37,7 @@ pseudo data
 [  OK]oddify      1024 MiB, enc    135.090, dec    124.863, total    259.953 [ms] 4.131 GiB/s
 ```
 wonkydose
+---------
 ```
 stuff64.exe
 dry run
